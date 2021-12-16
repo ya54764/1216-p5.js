@@ -1,0 +1,16 @@
+body{
+    background-color: #a4d3eb;
+    text-align:center;
+  }
+  
+  h1{
+    background-color: #fac77c;
+  }
+  
+  p{
+    font-size: 18px;
+  }
+  
+  canvas{
+    border: thin solid rgb(233, 243, 147);
+  }
